@@ -1,4 +1,4 @@
-// Note: All exercises were tested at remix.ethereum.org and exported to VS Code
+// Note: All exercises were tested at remix.ethereum.org and exported to VS Code 
 
 pragma solidity 0.4.17;
 
