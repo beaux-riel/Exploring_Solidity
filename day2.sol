@@ -1,5 +1,5 @@
 // Note: All exercises were tested at remix.ethereum.org and exported to VS Code
-pragma solidity 0.8.4;
+pragma solidity ^0.8.4;
 contract Inbox {
     string public message;
         constructor(string initialMessage) public {
